@@ -1,6 +1,7 @@
 # Starter Web Project
 
 ## Introduction
+Hi I am Tom Hillion from saber Industries and Co. With this new web design the world will be taken by storm.
 
 ### Purpose
 
